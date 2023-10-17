@@ -10,4 +10,4 @@ story-1https://public.tableau.com/views/Book2_16961139491620/Story1?:language=en
 
 story-2https://public.tableau.com/views/Book2_16961139491620/Story2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
-vediohttps://drive.google.com/file/d/1-ATlBaFMipuL6GJvd2BBTKOXWLB4PQOn/view?usp=drivesdk
+vedio https://drive.google.com/file/d/1-ATlBaFMipuL6GJvd2BBTKOXWLB4PQOn/view?usp=drivesdk
